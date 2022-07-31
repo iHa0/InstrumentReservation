@@ -8,7 +8,7 @@
 
 ### 使用方式
 * 因为本项目是基于 python 语言的，所以需要操作系统配置好相关的 python 环境
-* 建议在服务器上面运行，将 py 文件拷贝到云服务器进行运行，也可以使用自己的电脑，通过 ```instrumentRreservation.py``` 来运行
+* 建议在服务器上面运行，将 py 文件拷贝到云服务器进行运行，也可以使用自己的电脑，通过 ```python instrumentRreservation.py``` 来运行
 * 运行过程中不要关闭窗口
 
 ## 如果可以的话，希望能够一起学习，请联系我 sinhao@live.com
