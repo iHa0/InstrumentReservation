@@ -11,7 +11,7 @@ sleep_time = 1
 start_index = 16
 end_index = 18
 day = 9
-web = "此处输入相对应的预约网址，eg.http://yqgx.zcmu.edu.cn/lims/!equipments/equipment/index.117.reserv"
+web = "此处输入相对应的预约网址，eg.http://yqgx.zcmu.edu.cn/lims/"
 username = "此处输入 username"
 password = "此处输入 password"
 
